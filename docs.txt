@@ -1,3 +1,0 @@
-Email Spam Classifier
-
-dataset link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
